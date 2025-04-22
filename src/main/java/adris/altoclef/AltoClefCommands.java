@@ -37,7 +37,8 @@ public class AltoClefCommands {
                 new DummyTaskCommand(),
                 new FollowCommand(),
                 new GiveCommand(),
-                new ScanCommand()
+                new ScanCommand(),
+                new SurviveCommand() // Add your SurviveCommand here
         );
     }
 }
